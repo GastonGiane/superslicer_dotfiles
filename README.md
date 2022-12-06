@@ -1,2 +1,4 @@
 # superslicer_dotfiles
-SuperSlicer dotfiles
+
+SuperSlicer Folder Config Windows:
+C:\Users\<Username>\AppData\Roaming\SuperSlicer
